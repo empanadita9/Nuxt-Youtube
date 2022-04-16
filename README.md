@@ -1,4 +1,4 @@
-# ejemplo1
+# nuxtjsapp
 
 ## Build Setup
 
